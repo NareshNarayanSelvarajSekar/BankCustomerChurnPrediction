@@ -1,6 +1,6 @@
 # BankCustomerChurnPrediction
 This project aims to analyze various aspects of bank customers, including demographic details like age, gender, and country, as well as financial information like credit score and balance. The primary goal is to predict whether a customer is inclined to churn or continue their association with the bank.
-About the dataset
+
 
 The dataset is taken from Kaggle. It contains 10000 rows and 14 columns. The dataset's primary objective is to make predictions about whether customers will continue their banking engagement or decide to discontinue it. This predictive analysis hinges on the holistic fusion of customer demographic and financial data encompassed within the dataset.
 
