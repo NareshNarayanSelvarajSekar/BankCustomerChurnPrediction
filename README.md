@@ -1,4 +1,4 @@
-# BankCustomerChurnPrediction
+# CustomerChurnPrediction
 This project aims to analyze various aspects of bank customers, including demographic details like age, gender, and country, as well as financial information like credit score and balance. The primary goal is to predict whether a customer is inclined to churn or continue their association with the bank.
 
 
